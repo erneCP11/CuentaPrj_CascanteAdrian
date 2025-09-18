@@ -55,7 +55,7 @@ public class PrincipalCuenta
                     }
                     cuentas.add(c);
                     actual = cuentas.size() -1;
-                    System.out.println("Cuenta creada y seleccionada (índice" + actual + ").");
+                    System.out.println("Cuenta creada y seleccionada (índice " + actual + ").");
                     break;
                 }
                 case "2": { // Conocer cantidad de Cuentas creadas
